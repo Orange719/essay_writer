@@ -12,3 +12,6 @@ if(s=="y"):
   f.write("<p style='text-align:right'>"+your_name+"</p>")
   f.write("<br><h1 style='text-align:center'>"+essay_title+"</h1>")
   f.write("<br><p>"+essay+"</p")
+
+if(s=="n"):
+  print("Why?")
